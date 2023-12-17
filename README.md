@@ -17,6 +17,7 @@ in test folder
   - make -f Makefile Run to execute test applications. This stores test coverage information in ./output directory
   - run make -f Makefile clean to delete output directory and contents together with all .gcno, .gcda files.
 Generated html looks as follows
+![image](https://github.com/O-Cube/Sample-Factory/assets/65163799/173592e2-c3ed-4605-aa9e-aba8067751a4)
 ![image](https://github.com/O-Cube/Sample-Factory/assets/65163799/0553e59e-d84d-48a8-8a77-cafa30073b30)
 ![image](https://github.com/O-Cube/Sample-Factory/assets/65163799/154a4ab8-96b9-4a3d-8f2c-b7b091c3d0c4)
 ![image](https://github.com/O-Cube/Sample-Factory/assets/65163799/7afaab4b-1fb4-4f03-b743-0c2bda3915da)
